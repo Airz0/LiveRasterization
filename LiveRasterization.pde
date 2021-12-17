@@ -1,9 +1,4 @@
 /*
-31080 Interactive Media - Spring 2020
-Assignment 3: Final Interactive Media Project
-Vefa Ismailpour | 13876608
-*/
-/*
     Controls: 'p' or 'P' to play/pause rotation.
     if rotation is paused, 'a'/'A' & 'd'/'D' to rotate left and right
 */
